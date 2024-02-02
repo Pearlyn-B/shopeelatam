@@ -46,17 +46,19 @@ This Power BI project aims to provide Shopee LATAM with a comprehensive analysis
    - Introduce Seasonal Marketing Strategies in February and September to counteract historically low sales months. For example, Valentine's Day campaigns in February and Independence Day-themed promotions in Brazil, Mexico, and Chile in September.
 
 3. **Retention of >40 Segment:**
-   - Implement retention strategies for the >40 age group, focusing on personalized communication and tailored promotions to maintain their majority contribution to sales. For instance, Tailored Communication Channels:
-
+   - Implement retention strategies for the >40 age group, such as the following:</br>
+   
+   **Tailored communication chanels and promotions:**
+   - Focus on personalized communication and tailored promotions to maintain key segment's majority contribution to sales.
    - Identify and utilize communication channels preferred by this demographic. Whether through SMS, email newsletters, targeted social media campaigns, or personalized messages within the Shopee app, ensuring communication aligns with their preferences enhances engagement.
 
-**Introduce Appealing New Products:**
-![more than 40 Brazil_Shopee](https://github.com/Pearlyn-B/da-portfolio/assets/80374547/ac0398d5-aeba-4124-ae37-4538820b112f)
--Ensure a dynamic and enticing product assortment that sustains their interest and loyalty.
-
-For example, the above 40 demographic in Brazil exhibits a pronounced interest in products such as Wall Art, Bedding, Kitchen Appliances, Curtains, Home Decor, and Lighting. Shopee could enhance its product selection by expanding offerings in these popular categories, optimizing sales and quantities through strategic product diversification.
-
-Keep abreast of market trends to recommend trending products to the above 40 demographic. For instance, monitoring the increasing demand for sustainable home decor, Shopee could introduce eco-friendly options within the above-mentioned categories, aligning with current market preferences and further enhancing customer appeal for the key >40 segment.
+   **Introduce Appealing New Products:**
+   ![more than 40 Brazil_Shopee](https://github.com/Pearlyn-B/da-portfolio/assets/80374547/ac0398d5-aeba-4124-ae37-4538820b112f)
+   -Ensure a dynamic and enticing product assortment that sustains their interest and loyalty.
+   
+   For example, the above 40 demographic in Brazil exhibits a pronounced interest in products such as Wall Art, Bedding, Kitchen Appliances, Curtains, Home Decor, and Lighting. Shopee could enhance its product selection by expanding offerings in these popular categories, optimizing sales and quantities through strategic product diversification.
+   
+   Further, keep abreast of market trends to recommend trending products to the above 40 demographic. For instance, monitoring the increasing demand for sustainable home decor, Shopee could introduce eco-friendly options within the above-mentioned categories, aligning with current market preferences and further enhancing customer appeal for the key >40 segment.
 
 4. **Boosting Product Categorical Performance:**
    - Elevate the Household Items category's success by exploring exclusive collaborations. Partner with high-demand brands or artisans to introduce premium products, adding exclusivity and potential value to the category, thereby driving increased sales.
