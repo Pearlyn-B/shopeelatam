@@ -12,7 +12,7 @@ This Power BI project aims to provide Shopee LATAM with a comprehensive analysis
 
  # Report Snapshot
  
-![dashboard](https://github.com/Pearlyn-B/portfolio/assets/80374547/768e8ac3-0e78-4d16-87c1-097268b0cb82)
+![dashboard](https://github.com/Pearlyn-B/da-portfolio/assets/80374547/4b85e2a9-232d-4490-a026-b22bb65bf6d5)
 
 
 ## Findings
@@ -38,23 +38,23 @@ This Power BI project aims to provide Shopee LATAM with a comprehensive analysis
 To boost sales and enhance the shopping experience, historical purchase data can be leveraged to provide customers with personalized recommendations. These recommendations are as follows:
 
    ### Popularity Based Recommendations:
-  ![popularity_recco](https://github.com/Pearlyn-B/portfolio/assets/80374547/9e9a6505-b73b-4a28-ac6a-b9f1e353d503)
+![popularity_recco](https://github.com/Pearlyn-B/da-portfolio/assets/80374547/7deabc2f-2c7b-4e14-b8fd-30a366b142bc)
 
    -  This approach identifies the top 5 most purchased products across all customers, offering a straightforward method to highlight universally appealing items. This approach ensures that new users are presented with products that have a broad appeal, increasing the likelihood of purchase due to their proven popularity.
    
    ### Demographics Based Recommendations:
-![demo_reco_1_updated](https://github.com/Pearlyn-B/portfolio/assets/80374547/b68fe1c1-d7a1-49a6-a34b-f69c5f6ab6e6)
+![demo_reco_1_updated](https://github.com/Pearlyn-B/da-portfolio/assets/80374547/4411d97e-fde8-4359-a584-9aeef70fd4f9)
 
    - For a more tailored experience, purchase patterns are segmented by demographic details such as gender, country, age group, and income. By grouping customers and identifying top purchases within these segments, Shopee can offer personalized product recommendations that resonate with the specific preferences and needs of each shopper.
       
-![demographics_reco](https://github.com/Pearlyn-B/portfolio/assets/80374547/72880af1-0bf8-4070-9c85-bd26cd071e27)
+![demographics_reco](https://github.com/Pearlyn-B/da-portfolio/assets/80374547/d71ff00d-83eb-44b8-8a20-5d67673e75f8)
    - A function has been developed to recommend products tailored to a shopper's individual demographics, significantly improving the relevance of the suggestions provided.
 
 Example Use Case:
 As seen above, the recommendation function is applied to suggest products tailored for a 28-year-old Brazilian shopper with an annual income of $60,000.
 
    ### Hybrid Model Implementation:
-![hybrid_updatedx2](https://github.com/Pearlyn-B/portfolio/assets/80374547/750ab91d-93b4-4cbc-b255-c5a4830ad79d)
+![hybrid_updatedx2](https://github.com/Pearlyn-B/da-portfolio/assets/80374547/44c50795-9daf-4e81-9e8b-8a0f3800eea8)
 
 The hybrid recommendation model merges the broad appeal of popularity-based recommendations with the personalized touch of demographic-based recommendations. For a given individual, this model first selects the top products from the popularity-based list and then supplements them with personalized suggestions derived from demographic data.
 
